@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YuGo</string>
+    <string name="text_view_default">view</string>
+</resources>
